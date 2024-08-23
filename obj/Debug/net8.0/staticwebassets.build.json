@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "On/SlGnubvl+otE3zpCWcN4XvyiIzpIa3Mcj47dGdrg=",
+  "Source": "atividade",
+  "BasePath": "_content/atividade",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "atividade\\wwwroot",
+      "Source": "atividade",
+      "ContentRoot": "D:\\atividade\\wwwroot\\",
+      "BasePath": "_content/atividade",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\atividade\\wwwroot\\index.html",
+      "SourceId": "atividade",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\atividade\\wwwroot\\",
+      "BasePath": "_content/atividade",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
